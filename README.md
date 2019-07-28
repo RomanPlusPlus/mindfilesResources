@@ -9,7 +9,37 @@ A collection of resources related to mindfiles (digital representations of your 
 
 ## Software ##
 
+* [Replica App](https://replika.ai/)
+
 ## Sources of data ##
+
+* diaries
+* genotype
+* Brain imagining results: EEG, CT, MRI (especially fMRI!) etc
+* Results of psychological tests
+* Records of all your important ideas, with timestamps (there are apps for that)
+* Records of all your goals and projects (e.g. through the "Getting Things Done" method)
+* a detailed biography  
+* Bank statements
+* completed calendars, notebooks
+* relevant photos, audio and video recordings:
+  * selfies
+  * friends and relatives
+  * places visited (especially your places of residence)
+  * household items, toys, food etc.  
+* Correspondence (offline)
+* correspondence (online): emails, social networks, etc.
+* Browser history
+* the list of mobile phone calls, SMS
+* Records of your computer activities:
+  * regular screenshots
+  * mouse movements
+  * Keyboard
+* Your works: sketches, books you wrote, software etc
+* the list of all the books and films you have ever read/seen
+* the list of all places where you have ever lived
+* geolocation records
+* user data downloads from online services (Google, Facebook etc) 
 
 ## Places for long-term storage ##
 
