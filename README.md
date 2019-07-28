@@ -44,18 +44,18 @@ A collection of resources related to mindfiles (digital representations of your 
 ## Places for long-term storage ##
 
 #### There is a chance of reanimation: #### 
-- Cryonics Institute (US)
-- Alcor (US)
-- Lifenaut (US)
-- Cyberev (US)
-- KrioRus (Russia)
+- [Cryonics Institute (US)](https://www.cryonics.org/)
+- [Alcor (US)](https://alcor.org/)
+- [Lifenaut (US)](https://www.lifenaut.com/)
+- [Cyberev (US)](https://www.cyberev.org/)
+- [KrioRus (Russia)](http://kriorus.ru/en)
 
 #### No reanimation, but could be useful for long-term backups: #### 
 
 - Some banks (e.g. in Switzerland)
-- Cloud Services: e.g. Google Drive, Dropbox (Worldwide)
-- Astrobotic (the moon)
-- Archmission (Space)
+- Cloud Services: e.g. [Google Drive](https://www.google.com/drive/), [Dropbox (Worldwide)](https://www.dropbox.com/)
+- [Astrobotic (the moon)](https://www.astrobotic.com/)
+- [Archmission (Space)](https://www.archmission.org/)
 
 ## Orgs, communities ##
 
