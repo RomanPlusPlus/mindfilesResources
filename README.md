@@ -26,3 +26,11 @@ A collection of resources related to mindfiles (digital representations of your 
 * Lifelogging
 * Digital immortality
 * Cryonics
+
+# Feedback
+
+This repository is a work in progress. Feedback is highly appreciated!
+
+Please feel free to edit it directly (you need to sign up in github to do it), or suggest edits using the ["issue"]( https://github.com/RomanPlusPlus/mindfilesResources/issues) feature.
+
+You can also subcribe to changes using [RSS](https://github.com/RomanPlusPlus/mindfilesResources/commits/master.atom).
