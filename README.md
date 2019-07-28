@@ -3,16 +3,17 @@ A collection of resources related to mindfiles (digital representations of your 
 
 ## Popular introductions ##
 
+* Gordon Bell, Jim Gemmell (2010) [Your Life Uploaded: The Digital Way to Better Memory, Health, and Productivity](https://www.amazon.com/Your-Life-Uploaded-Digital-Productivity/dp/0452296560)
 * Bruce Duncan (2013). [Re-creating Ourselves: Mindfiles and Androids (video)](https://www.youtube.com/watch?v=DZB-7-InneY)
 * Martine Rothblatt (2014). [What Are Mindfiles?](https://transhumanity.net/what-are-mindfiles/)
-* Gordon Bell, Jim Gemmell (2010) [Your Life Uploaded: The Digital Way to Better Memory, Health, and Productivity](https://www.amazon.com/Your-Life-Uploaded-Digital-Productivity/dp/0452296560)
 * Robin Hanson (2016). [The Age of Em](https://en.wikipedia.org/wiki/The_Age_of_Em) 
 
 
 ## Theoretical foundations ##
 
-* Seymour, Leslie (2014). [Declarative Consciousness for Reconstruction](https://www.researchgate.net/publication/260943430_Declarative_Consciousness_for_Reconstruction). 10.2478/jagi-2013-0007.
+* Turing, Alan (1950) [Computing Machinery and Intelligence. ](https://www.csee.umbc.edu/courses/471/papers/turing.pdf) Mind 49: 433-460.
 * Sandberg, Anders; Boström, Nick (2008). [Whole Brain Emulation: A Roadmap](http://www.fhi.ox.ac.uk/Reports/2008-3.pdf)
+* Seymour, Leslie (2014). [Declarative Consciousness for Reconstruction](https://www.researchgate.net/publication/260943430_Declarative_Consciousness_for_Reconstruction). 10.2478/jagi-2013-0007.
 
 ## Hardware ##
 
