@@ -80,6 +80,7 @@ Digitalizing and preserving these data about yourself could be useful:
 * [Terasem Movement Foundation, Inc.](https://www.terasemmovementfoundation.com/)
 * [Neuralink](https://en.wikipedia.org/wiki/Neuralink)
 * [r/DigitalResurrection](https://www.reddit.com/r/DigitalResurrection/)
+* [r/QuantifiedSelf](https://www.reddit.com/r/QuantifiedSelf/)
 * [facebook/DI_DigitalImmortality (Russian)](https://www.facebook.com/groups/814224298977339/about/)
 
 ## Peer-reviewed academic journals ##
@@ -89,6 +90,7 @@ Digitalizing and preserving these data about yourself could be useful:
 ## Related topics ##
 
 * Lifelogging
+* [Quantified self](https://en.wikipedia.org/wiki/Quantified_self)
 * Digital immortality
 * Cryonics
 
