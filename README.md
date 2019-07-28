@@ -17,7 +17,8 @@ A collection of resources related to mindfiles (digital representations of your 
 
 ## Software ##
 
-* [Replica App](https://replika.ai/)
+* [Replica App](https://replika.ai/) - a chatbot that is trying to learn your personality
+* [PyKeylogger](https://github.com/amoffat/pykeylogger/blob/master/README.md) - a pure-python keylogger for linux
 
 ## Sources of data ##
 
