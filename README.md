@@ -94,10 +94,11 @@ Digitalizing and preserving these data about yourself could be useful:
 
 ## Related topics ##
 
-* Lifelogging
+* [Lifelog](https://en.wikipedia.org/wiki/Lifelog)
 * [Quantified self](https://en.wikipedia.org/wiki/Quantified_self)
-* Digital immortality
-* Cryonics
+* [Digital immortality](https://en.wikipedia.org/wiki/Digital_immortality)
+* [Mind uploading](https://en.wikipedia.org/wiki/Mind_uploading)
+* [Cryonics](https://en.wikipedia.org/wiki/Cryonics)
 
 # Feedback
 
