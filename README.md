@@ -5,6 +5,7 @@ A collection of resources related to mindfiles (digital representations of your 
 
 * Bruce Duncan (2013). [Re-creating Ourselves: Mindfiles and Androids (video)](https://www.youtube.com/watch?v=DZB-7-InneY)
 * Martine Rothblatt (2014). [What Are Mindfiles?](https://transhumanity.net/what-are-mindfiles/)
+Gordon Bell, Jim Gemmell (2010) [Your Life Uploaded: The Digital Way to Better Memory, Health, and Productivity](https://www.amazon.com/Your-Life-Uploaded-Digital-Productivity/dp/0452296560)
 * Robin Hanson (2016). [The Age of Em](https://en.wikipedia.org/wiki/The_Age_of_Em) 
 
 
