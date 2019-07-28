@@ -1,11 +1,16 @@
 # mindfilesResources
 A collection of resources related to mindfiles (digital representations of your mind)
 
-## Introductions ##
+## Popular introductions ##
+
+* Bruce Duncan (2013). [Re-creating Ourselves: Mindfiles and Androids (video)](https://www.youtube.com/watch?v=DZB-7-InneY)
+* Martine Rothblatt (2014). [What Are Mindfiles?](https://transhumanity.net/what-are-mindfiles/)
+* Robin Hanson (2016). [The Age of Em](https://en.wikipedia.org/wiki/The_Age_of_Em) 
+
 
 ## Theoretical foundations ##
 
-* Seymour, Leslie. (2014). [Declarative Consciousness for Reconstruction](https://www.researchgate.net/publication/260943430_Declarative_Consciousness_for_Reconstruction). 10.2478/jagi-2013-0007.
+* Seymour, Leslie (2014). [Declarative Consciousness for Reconstruction](https://www.researchgate.net/publication/260943430_Declarative_Consciousness_for_Reconstruction). 10.2478/jagi-2013-0007.
 * Sandberg, Anders; Boström, Nick (2008). [Whole Brain Emulation: A Roadmap](http://www.fhi.ox.ac.uk/Reports/2008-3.pdf)
 
 ## Hardware ##
