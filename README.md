@@ -82,6 +82,10 @@ Digitalizing and preserving these data about yourself could be useful:
 * [r/DigitalResurrection](https://www.reddit.com/r/DigitalResurrection/)
 * [facebook/DI_DigitalImmortality (Russian)](https://www.facebook.com/groups/814224298977339/about/)
 
+## Peer-reviewed academic journals ##
+* [The Journal of Artificial General Intelligence ](http://www.agi-society.org/journal/)
+* [International Journal of Machine Consciousness](https://www.worldscientific.com/worldscinet/ijmc)
+
 ## Related topics ##
 
 * Lifelogging
