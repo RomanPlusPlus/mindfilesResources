@@ -27,6 +27,8 @@ A collection of resources related to mindfiles (digital representations of your 
 
 ## Sources of data ##
 
+Digitalizing and preserving these data about yourself could be useful:  
+
 * diaries
 * genotype
 * Brain imagining results: EEG, CT, MRI (especially fMRI!) etc
