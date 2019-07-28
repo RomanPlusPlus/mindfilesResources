@@ -5,6 +5,8 @@ A collection of resources related to mindfiles (digital representations of your 
 
 ## Theoretical foundations ##
 
+* Seymour, Leslie. (2014). [Declarative Consciousness for Reconstruction](https://www.researchgate.net/publication/260943430_Declarative_Consciousness_for_Reconstruction). 10.2478/jagi-2013-0007. 
+
 ## Hardware ##
 
 ## Software ##
