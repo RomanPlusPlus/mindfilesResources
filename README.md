@@ -18,6 +18,8 @@ A collection of resources related to mindfiles (digital representations of your 
 ## Hardware ##
 
 * Reviews of wearable cameras: [1](https://www.bestproducts.com/tech/gadgets/g3110/best-wearable-video-cameras/), [](), [](), [](), [](), 
+* [Quantified_self / Devices_and_services](https://en.wikipedia.org/wiki/Quantified_self#Devices_and_services)
+
 
 ## Software ##
 
