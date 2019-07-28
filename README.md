@@ -23,7 +23,7 @@ A collection of resources related to mindfiles (digital representations of your 
 * [PyKeylogger](https://github.com/amoffat/pykeylogger/blob/master/README.md) - a pure-python keylogger for linux
 * [Mouse tracking for linux](https://stackoverflow.com/a/35138204) - on Python
 * [capture screens on linux](https://stackoverflow.com/a/782768) - on Python
-* [zpaq](http://www.mattmahoney.net/dc/zpaq.html) - an open-source archiver with exremely good compression rates
+* [zpaq](http://www.mattmahoney.net/dc/zpaq.html) - an open-source archiver with extremely good compression rates
 
 ## Sources of data ##
 
