@@ -17,7 +17,8 @@ A collection of resources related to mindfiles (digital representations of your 
 
 ## Hardware ##
 
-* Reviews of wearable cameras: [1](https://www.bestproducts.com/tech/gadgets/g3110/best-wearable-video-cameras/), [2](https://wiki.ezvid.com/best-wearable-cameras), [](), [](), [](), 
+* Reviews of wearable cameras: [1](https://www.bestproducts.com/tech/gadgets/g3110/best-wearable-video-cameras/), [2](https://wiki.ezvid.com/best-wearable-cameras) 
+* [Amazon / Best Sellers in Body Mounted Video Cameras](https://www.amazon.com/gp/bestsellers/electronics/10048714011)
 * [Quantified_self / Devices_and_services](https://en.wikipedia.org/wiki/Quantified_self#Devices_and_services)
 
 
