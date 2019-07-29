@@ -7,6 +7,7 @@ A collection of resources related to mindfiles (digital representations of your 
 * Bruce Duncan (2013). [Re-creating Ourselves: Mindfiles and Androids (video)](https://www.youtube.com/watch?v=DZB-7-InneY)
 * Martine Rothblatt (2014). [What Are Mindfiles?](https://transhumanity.net/what-are-mindfiles/)
 * Robin Hanson (2016). [The Age of Em](https://en.wikipedia.org/wiki/The_Age_of_Em) 
+* Alexei Turchin (2019). [Digital Immortality: How to gather information about yourself so that the future AI can bring you back to life](https://www.youtube.com/watch?v=NuOX4DmLUbg) (video, Russian)
 
 
 ## Theoretical foundations ##
