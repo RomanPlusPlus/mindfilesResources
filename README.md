@@ -25,6 +25,7 @@ A collection of resources related to mindfiles (digital representations of your 
 * Highly durable data storage:
   * [M-DISC](https://en.wikipedia.org/wiki/M-DISC)
   * [Linear Tape-Open](https://en.wikipedia.org/wiki/Linear_Tape-Open)
+  * [Nanofiche](https://nanoarchival.com/) - Note: very expensive (from $50 000)
 
 ## Software ##
 
