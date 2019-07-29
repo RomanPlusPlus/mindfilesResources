@@ -81,6 +81,7 @@ Digitalizing and preserving these data about yourself could be useful:
 #### No reanimation, but could be useful for long-term backups etc: #### 
 
 - Some banks (e.g. in Switzerland)
+- [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive)
 - Cloud Services: e.g. [Google Drive](https://www.google.com/drive/), [Dropbox (Worldwide)](https://www.dropbox.com/)
 - [Astrobotic (the moon)](https://www.astrobotic.com/)
 - [Archmission (Space)](https://www.archmission.org/)
