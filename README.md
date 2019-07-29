@@ -63,7 +63,7 @@ Digitalizing and preserving these data about yourself could be useful:
 * the list of all the books and films you have ever read/seen
 * the list of all places where you have ever lived
 * geolocation records
-* user data downloads from online services (Google, Facebook etc) 
+* user data downloads from online services ([Google Takeout](https://takeout.google.com/settings/takeout), Facebook etc) 
 
 ## Places for long-term storage ##
 
