@@ -74,13 +74,14 @@ Digitalizing and preserving these data about yourself could be useful:
 - [Cyberev (US)](https://www.cyberev.org/)
 - [KrioRus (Russia)](http://kriorus.ru/en)
 
-#### No reanimation, but could be useful for long-term backups: #### 
+#### No reanimation, but could be useful for long-term backups etc: #### 
 
 - Some banks (e.g. in Switzerland)
 - Cloud Services: e.g. [Google Drive](https://www.google.com/drive/), [Dropbox (Worldwide)](https://www.dropbox.com/)
 - [Astrobotic (the moon)](https://www.astrobotic.com/)
 - [Archmission (Space)](https://www.archmission.org/)
 - [23andme](https://www.23andme.com) - for a DNA backup
+- [onlim](https://onlim.com) - a company that develops customized chatbots
 
 ## Orgs, communities ##
 
