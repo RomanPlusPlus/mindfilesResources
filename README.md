@@ -22,7 +22,9 @@ A collection of resources related to mindfiles (digital representations of your 
   * [Body Mounted Video Cameras](https://www.amazon.com/gp/bestsellers/electronics/10048714011)
   * [Digital Voice Recorders](https://www.amazon.com/Best-Sellers-Electronics-Digital-Voice-Recorders/zgbs/electronics/227758)
 * [Quantified_self / Devices_and_services](https://en.wikipedia.org/wiki/Quantified_self#Devices_and_services)
-
+* Highly durable data storage:
+  * [M-DISC](https://en.wikipedia.org/wiki/M-DISC)
+  * [Linear Tape-Open](https://en.wikipedia.org/wiki/Linear_Tape-Open)
 
 ## Software ##
 
