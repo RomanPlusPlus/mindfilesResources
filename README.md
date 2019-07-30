@@ -33,12 +33,18 @@ A collection of resources related to mindfiles (digital representations of your 
 
 ## Software ##
 
-* [Replika App](https://replika.ai/) - a chatbot that is trying to learn your personality
-* [Olivia](https://olivia-ai.org/) - on open-source chatbot
+#### Data collection: #### 
 * [PyKeylogger](https://github.com/amoffat/pykeylogger/blob/master/README.md) - a pure-python keylogger for linux
 * [Mouse tracking for linux](https://stackoverflow.com/a/35138204) - on Python
 * [capture screens on linux](https://stackoverflow.com/a/782768) - on Python
+#### Data storage: #### 
 * [zpaq](http://www.mattmahoney.net/dc/zpaq.html) - an open-source archiver with extremely good compression rates
+#### Reconstruction: #### 
+* [Replika App](https://replika.ai/) - a chatbot that is trying to learn your personality
+* [Olivia](https://olivia-ai.org/) - on open-source chatbot
+* [DAVS](https://github.com/Hangz-nju-cuhk/Talking-Face-Generation-DAVS) - talking face generation
+* [Progressive Growing of GANs](https://github.com/tkarras/progressive_growing_of_gans) - generation of faces
+* [lstm_text_generation](https://github.com/keras-team/keras/blob/master/examples/lstm_text_generation.py) - text generation
 
 ## Sources of data ##
 
