@@ -21,15 +21,19 @@ A collection of resources related to mindfiles (digital representations of your 
 
 ## Hardware ##
 
-* Reviews of wearable cameras: [1](https://www.bestproducts.com/tech/gadgets/g3110/best-wearable-video-cameras/), [2](https://wiki.ezvid.com/best-wearable-cameras) 
-* Amazon best sellers:
-  * [Body Mounted Video Cameras](https://www.amazon.com/gp/bestsellers/electronics/10048714011)
-  * [Digital Voice Recorders](https://www.amazon.com/Best-Sellers-Electronics-Digital-Voice-Recorders/zgbs/electronics/227758)
-* [Quantified_self / Devices_and_services](https://en.wikipedia.org/wiki/Quantified_self#Devices_and_services)
+#### Data collection: #### 
+* wearable cameras:
+  * Reviews: [1](https://www.bestproducts.com/tech/gadgets/g3110/best-wearable-video-cameras/), [2](https://wiki.ezvid.com/best-wearable-cameras) 
+  * [Amazon best sellers](https://www.amazon.com/gp/bestsellers/electronics/10048714011)
+* digital voice recorders:
+  * [Amazon best sellers](https://www.amazon.com/Best-Sellers-Electronics-Digital-Voice-Recorders/zgbs/electronics/227758)
+* misc:
+  * [Quantified_self / Devices_and_services](https://en.wikipedia.org/wiki/Quantified_self#Devices_and_services)  
+#### Data storage: #### 
 * Highly durable data storage:
   * [M-DISC](https://en.wikipedia.org/wiki/M-DISC)
   * [Linear Tape-Open](https://en.wikipedia.org/wiki/Linear_Tape-Open)
-  * [Nanofiche](https://nanoarchival.com/) - Note: very expensive (from $50 000)
+  * [Nanofiche](https://nanoarchival.com/) - from $50 000
 
 ## Software ##
 
