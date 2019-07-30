@@ -15,6 +15,7 @@ A collection of resources related to mindfiles (digital representations of your 
 * Turing, Alan (1950) [Computing Machinery and Intelligence. ](https://www.csee.umbc.edu/courses/471/papers/turing.pdf) Mind 49: 433-460.
 * Sandberg, Anders; Boström, Nick (2008). [Whole Brain Emulation: A Roadmap](http://www.fhi.ox.ac.uk/Reports/2008-3.pdf)
 * Seymour, Leslie (2014). [Declarative Consciousness for Reconstruction](https://www.researchgate.net/publication/260943430_Declarative_Consciousness_for_Reconstruction). 10.2478/jagi-2013-0007.
+* Merkle, Ralph (2016). [Information-Theoretic Death](http://www.merkle.com/definitions/infodeath.html) 
 
 ## Hardware ##
 
