@@ -42,9 +42,10 @@ A collection of resources related to mindfiles (digital representations of your 
 #### Reconstruction: #### 
 * [Replika App](https://replika.ai/) - a chatbot that is trying to learn your personality
 * [Olivia](https://olivia-ai.org/) - on open-source chatbot
-* [DAVS](https://github.com/Hangz-nju-cuhk/Talking-Face-Generation-DAVS) - talking face generation
-* [Progressive Growing of GANs](https://github.com/tkarras/progressive_growing_of_gans) - generation of faces
 * [lstm_text_generation](https://github.com/keras-team/keras/blob/master/examples/lstm_text_generation.py) - text generation
+* [GPT-2](https://github.com/openai/gpt-2) - text generation
+* [Progressive Growing of GANs](https://github.com/tkarras/progressive_growing_of_gans) - generation of faces
+* [DAVS](https://github.com/Hangz-nju-cuhk/Talking-Face-Generation-DAVS) - talking face generation
 
 ## Sources of data ##
 
