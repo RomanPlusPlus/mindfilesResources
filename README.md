@@ -23,10 +23,12 @@ A collection of resources related to mindfiles (digital representations of your 
 
 #### Data collection: #### 
 * wearable cameras:
-  * Reviews: [1](https://www.bestproducts.com/tech/gadgets/g3110/best-wearable-video-cameras/), [2](https://wiki.ezvid.com/best-wearable-cameras) 
+  * reviews: [1](https://www.bestproducts.com/tech/gadgets/g3110/best-wearable-video-cameras/), [2](https://wiki.ezvid.com/best-wearable-cameras) 
   * [Amazon best sellers](https://www.amazon.com/gp/bestsellers/electronics/10048714011)
 * digital voice recorders:
   * [Amazon best sellers](https://www.amazon.com/Best-Sellers-Electronics-Digital-Voice-Recorders/zgbs/electronics/227758)
+* overhead scanners:
+  * reviews:[1](https://getdebestpro.com/best-book-scanners/), [2](https://www.topbest10reviews.com/best-book-scanners/), [3](https://techgearoid.com/scanners/best-overhead-scanners/) 
 * misc:
   * [Quantified_self / Devices_and_services](https://en.wikipedia.org/wiki/Quantified_self#Devices_and_services)  
 #### Data storage: #### 
