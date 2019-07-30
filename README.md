@@ -3,11 +3,11 @@ A collection of resources related to mindfiles (digital representations of your 
 
 ## Popular introductions ##
 
-* Gordon Bell, Jim Gemmell (2010) [Your Life Uploaded: The Digital Way to Better Memory, Health, and Productivity](https://www.amazon.com/Your-Life-Uploaded-Digital-Productivity/dp/0452296560)
-* Bruce Duncan (2013). [Re-creating Ourselves: Mindfiles and Androids (video)](https://www.youtube.com/watch?v=DZB-7-InneY)
-* Martine Rothblatt (2014). [What Are Mindfiles?](https://transhumanity.net/what-are-mindfiles/)
-* Robin Hanson (2016). [The Age of Em](https://en.wikipedia.org/wiki/The_Age_of_Em) 
-* Alexei Turchin (2019). [Digital Immortality: How to gather information about yourself so that the future AI can bring you back to life](https://www.youtube.com/watch?v=NuOX4DmLUbg) (video, Russian)
+* Bell, Gordon; Gemmell, Jim (2010) [Your Life Uploaded: The Digital Way to Better Memory, Health, and Productivity](https://www.amazon.com/Your-Life-Uploaded-Digital-Productivity/dp/0452296560)
+* Duncan, Bruce (2013). [Re-creating Ourselves: Mindfiles and Androids (video)](https://www.youtube.com/watch?v=DZB-7-InneY)
+* Rothblatt, Martine (2014). [What Are Mindfiles?](https://transhumanity.net/what-are-mindfiles/)
+* Hanson, Robin (2016). [The Age of Em](https://en.wikipedia.org/wiki/The_Age_of_Em) 
+* Turchin, Alexei (2019). [Digital Immortality: How to gather information about yourself so that the future AI can bring you back to life](https://www.youtube.com/watch?v=NuOX4DmLUbg) (video, Russian)
 
 
 ## Theoretical foundations ##
@@ -16,6 +16,7 @@ A collection of resources related to mindfiles (digital representations of your 
 * Sandberg, Anders; Boström, Nick (2008). [Whole Brain Emulation: A Roadmap](http://www.fhi.ox.ac.uk/Reports/2008-3.pdf)
 * Seymour, Leslie (2014). [Declarative Consciousness for Reconstruction](https://www.researchgate.net/publication/260943430_Declarative_Consciousness_for_Reconstruction). 10.2478/jagi-2013-0007.
 * Merkle, Ralph (2016). [Information-Theoretic Death](http://www.merkle.com/definitions/infodeath.html) 
+* Turchin, Alexei (2018). [Digital Immortality: Theory and Protocol for Indirect Mind Uploading](https://philpapers.org/rec/TURDIT)
 
 ## Hardware ##
 
