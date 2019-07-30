@@ -6,6 +6,7 @@ A collection of resources related to mindfiles (digital representations of your 
 * Bell, Gordon; Gemmell, Jim (2010) [Your Life Uploaded: The Digital Way to Better Memory, Health, and Productivity](https://www.amazon.com/Your-Life-Uploaded-Digital-Productivity/dp/0452296560)
 * Duncan, Bruce (2013). [Re-creating Ourselves: Mindfiles and Androids (video)](https://www.youtube.com/watch?v=DZB-7-InneY)
 * Rothblatt, Martine (2014). [What Are Mindfiles?](https://transhumanity.net/what-are-mindfiles/)
+* Turchin, Alexei (2015) [Digital Immortality Map: Reconstruction of the Personality Based on its Information Traces](https://ieet.org/index.php/IEET2/more/turchin20151006)
 * Hanson, Robin (2016). [The Age of Em](https://en.wikipedia.org/wiki/The_Age_of_Em) 
 * Turchin, Alexei (2019). [Digital Immortality: How to gather information about yourself so that the future AI can bring you back to life](https://www.youtube.com/watch?v=NuOX4DmLUbg) (video, Russian)
 
