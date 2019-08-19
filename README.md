@@ -105,6 +105,7 @@ Digitalizing and preserving these data about yourself could be useful:
 - [Familysearch.org](https://www.familysearch.org/photos/) 
 - [23andme](https://www.23andme.com) - for a DNA backup
 - [onlim](https://onlim.com) - a company that develops customized chatbots
+- [Living Obit](https://www.livingobit.com/the-service) - professional obituaries for the living
 
 ## Orgs, communities ##
 
