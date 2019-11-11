@@ -32,19 +32,14 @@ A collection of resources related to mindfiles (digital representations of your 
 * misc:
   * [Quantified_self / Devices_and_services](https://en.wikipedia.org/wiki/Quantified_self#Devices_and_services)  
 #### Data storage: #### 
-* Highly durable data storage:
-  
-[Linear Tape-Open](https://en.wikipedia.org/wiki/Linear_Tape-Open): 
-Claimed longevity: 30 years, Cost per TB: ~$50. Minimal price to buy the hardware etc: ~$300. 
+* Highly durable data storage (as of 2019):
 
-[M-DISC](https://en.wikipedia.org/wiki/M-DISC): 
-1000 years. ~$130 / TB,  Min: ~$100
-
-[Nanofiche](https://nanoarchival.com/): 
->1000 years, ~$10 000 / TB (?), min: $50 000. 
-
-Paper books on demand: 
->1000 years under some conditions,  > ~$1 000 000 / TB, min: $50 
+Medium | Claimed longevity | Cost per TB | Minimal price to buy the hardware etc
+------------ | ------------ | ------------- | -------------
+[Linear Tape-Open](https://en.wikipedia.org/wiki/Linear_Tape-Open) | 30 years | ~$50 | ~$300
+[M-DISC](https://en.wikipedia.org/wiki/M-DISC) | 1000 years | ~$130 | ~$100
+[Nanofiche](https://nanoarchival.com/) | >1000 years | ~$10 000 (?) | $50 000
+Paper books on demand | >1000 years in some conditions | > ~$1 000 000 | $50 
 
 ## Software ##
 
