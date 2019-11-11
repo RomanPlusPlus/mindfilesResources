@@ -34,7 +34,7 @@ A collection of resources related to mindfiles (digital representations of your 
 #### Data storage: #### 
 * Highly durable data storage (as of 2019):
 
-Medium | Claimed longevity | Cost per TB | Minimal price to buy the hardware etc
+Medium | Claimed longevity | Cost per TB | Minimal cost of hardware
 ------------ | ------------ | ------------- | -------------
 [Linear Tape-Open](https://en.wikipedia.org/wiki/Linear_Tape-Open) | 30 years | ~$50 | ~$300
 [M-DISC](https://en.wikipedia.org/wiki/M-DISC) | 1000 years | ~$130 | ~$100
